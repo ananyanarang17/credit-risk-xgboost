@@ -63,6 +63,14 @@ The final model uses XGBoost with threshold tuning and SHAP explainability to pr
 	•	Matplotlib
 
 
+## Business Impact
+
+- Helps lenders identify high-risk borrowers
+- Reduces financial losses due to loan defaults
+- Enables risk-based loan pricing
+- Improves decision-making using interpretable AI (SHAP)
+
+
 
 👤 Author
 
